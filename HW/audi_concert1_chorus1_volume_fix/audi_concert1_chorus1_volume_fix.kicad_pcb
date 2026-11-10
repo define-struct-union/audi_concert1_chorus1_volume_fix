@@ -9722,7 +9722,7 @@
 		(start 134.62 97.79)
 		(end 134.62 70.612)
 		(stroke
-			(width 1)
+			(width 0.05)
 			(type solid)
 		)
 		(layer "Edge.Cuts")
@@ -9732,7 +9732,7 @@
 		(start 134.62 70.612)
 		(end 101.6 70.612)
 		(stroke
-			(width 1)
+			(width 0.05)
 			(type solid)
 		)
 		(layer "Edge.Cuts")
@@ -9742,7 +9742,7 @@
 		(start 101.6 97.79)
 		(end 134.62 97.79)
 		(stroke
-			(width 1)
+			(width 0.05)
 			(type solid)
 		)
 		(layer "Edge.Cuts")
@@ -9752,7 +9752,7 @@
 		(start 101.6 70.612)
 		(end 101.6 97.79)
 		(stroke
-			(width 1)
+			(width 0.05)
 			(type solid)
 		)
 		(layer "Edge.Cuts")
