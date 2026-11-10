@@ -64,6 +64,8 @@ Schematics in <a href="https://github.com/tomaskovacik/audi_concert1_chorus1_vol
 
 Assemble plan for latest v5 is <a href="https://tomaskovacik.github.io/audi_concert1_chorus1_volume_fix/HW/audi_concert1_chorus1_volume_fix/bom_v5/ibom.html">here</a>. Components with value prefi NP_ are not required (not populated). These are there for future features. 1k_GALA resistor has to be populated if SW with <a href="https://github.com/tomaskovacik/audi_concert1_chorus1_volume_fix/blob/gala/SW/audi_volume_fix_stm32/audi_volume_fix_stm32.ino">gala</a> support is used (SW from gala branch). AP for old v1 hw is <a href="https://raw.githubusercontent.com/tomaskovacik/audi_concert1_chorus1_volume_fix/master/HW/audi_concert1_chorus1_volume_fix/assemble_plan1_0.png">here</a>.
 
+Gerbers, BOM and pick & place files for ordering the v5 board, plus a step-by-step build guide, are in [HW/fab_v5](HW/fab_v5/README.md).
+
 
 Pictures of finished product:
 
