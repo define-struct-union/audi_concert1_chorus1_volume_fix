@@ -46,6 +46,15 @@ make upload
 
 No separate `st-flash` installation needed.
 
+### Prebuilt binary
+
+`SW/bins/audi_volume_fix_stm32_HWv5_v2.0.0.bin` is the v2.0.0 release build (HWv5 only).
+To flash it without building, using `st-flash` from the repository root:
+
+```bash
+st-flash write SW/bins/audi_volume_fix_stm32_HWv5_v2.0.0.bin 0x08000000
+```
+
 ---
 
 ## Serial decoder (`SW/decoder.py`)
